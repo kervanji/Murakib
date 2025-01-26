@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015339619177",
+    "project_id": "murakib-401b4",
+    "storage_bucket": "murakib-401b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015339619177:android:16fc4958d31ea14261e3f8",
+        "android_client_info": {
+          "package_name": "com.company.murakib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBHYjoTw6Ljh22KaNxIEPNHaqPVMCZBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015339619177:android:0040bf61571f8e9c61e3f8",
+        "android_client_info": {
+          "package_name": "com.example.murakib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBHYjoTw6Ljh22KaNxIEPNHaqPVMCZBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

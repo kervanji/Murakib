@@ -1,0 +1,40 @@
+name: murakib_vip
+description: A VIP version of the Murakib application
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase dependencies
+  firebase_core: ^3.9.0
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.6.0
+  firebase_storage: ^12.3.7
+  firebase_auth_web: ^5.3.4
+  
+  # Additional useful packages
+  cupertino_icons: ^1.0.2
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.2.2
+  file_picker: ^8.1.7
+  url_launcher: ^6.2.1
+  intl: ^0.19.0
+  connectivity_plus: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/murakib_logo.png
